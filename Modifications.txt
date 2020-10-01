@@ -1,0 +1,5 @@
+1) Change the data-type from int to long.
+
+2) Implement Different Sorting Algorithms
+
+3) Write same Code in either Python, Java or C.
